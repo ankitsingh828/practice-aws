@@ -15,3 +15,7 @@ SendTo/
 Start Menu/
 Templates/
 node_modules/
+.next/
+out/
+.env
+.DS_store
